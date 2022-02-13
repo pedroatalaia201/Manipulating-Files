@@ -1,0 +1,16 @@
+/mnt/c/Pedro/Dio_DotNet/Poo/POO/bin/Debug/net5.0/POO
+/mnt/c/Pedro/Dio_DotNet/Poo/POO/bin/Debug/net5.0/POO.deps.json
+/mnt/c/Pedro/Dio_DotNet/Poo/POO/bin/Debug/net5.0/POO.runtimeconfig.json
+/mnt/c/Pedro/Dio_DotNet/Poo/POO/bin/Debug/net5.0/POO.runtimeconfig.dev.json
+/mnt/c/Pedro/Dio_DotNet/Poo/POO/bin/Debug/net5.0/POO.dll
+/mnt/c/Pedro/Dio_DotNet/Poo/POO/bin/Debug/net5.0/ref/POO.dll
+/mnt/c/Pedro/Dio_DotNet/Poo/POO/bin/Debug/net5.0/POO.pdb
+/mnt/c/Pedro/Dio_DotNet/Poo/POO/obj/Debug/net5.0/POO.csproj.AssemblyReference.cache
+/mnt/c/Pedro/Dio_DotNet/Poo/POO/obj/Debug/net5.0/POO.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Pedro/Dio_DotNet/Poo/POO/obj/Debug/net5.0/POO.AssemblyInfoInputs.cache
+/mnt/c/Pedro/Dio_DotNet/Poo/POO/obj/Debug/net5.0/POO.AssemblyInfo.cs
+/mnt/c/Pedro/Dio_DotNet/Poo/POO/obj/Debug/net5.0/POO.csproj.CoreCompileInputs.cache
+/mnt/c/Pedro/Dio_DotNet/Poo/POO/obj/Debug/net5.0/POO.dll
+/mnt/c/Pedro/Dio_DotNet/Poo/POO/obj/Debug/net5.0/ref/POO.dll
+/mnt/c/Pedro/Dio_DotNet/Poo/POO/obj/Debug/net5.0/POO.pdb
+/mnt/c/Pedro/Dio_DotNet/Poo/POO/obj/Debug/net5.0/POO.genruntimeconfig.cache
